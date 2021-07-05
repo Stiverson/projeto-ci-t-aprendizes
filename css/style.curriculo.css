@@ -1,0 +1,72 @@
+.foto-perfil{
+    border-radius: 100%;
+    max-width: 200px;
+    border: 1px solid black
+}
+
+body{
+    background: linear-gradient(#696969,#363636,#4F4F4F);
+    font-style: normal;
+    color:white;
+}
+
+div{
+   width: 49%;
+   display: inline-block;
+   text-align: center;
+}
+
+h1{
+    font-style: italic;
+    color:turquoise;
+    text-align: center;
+    font-size: 50px;
+}
+
+h2{
+    font-style: italic;
+    color:black;
+    font-size: 35px;
+}
+
+h3{
+    font-style: italic;
+    color:black;
+    font-size: 26px;
+}
+
+.linkedinimg{
+    width:20px; 
+    height:20px;
+}
+
+.telefoneimg{
+    width:20px; 
+    height:20px;
+    border-radius: 100%;
+}
+
+.emailimg{
+    width:20px; 
+    height:20px;
+    border-radius: 100%;
+}
+
+.cursos{
+    color: rgb(4, 0, 63);
+}
+
+p{
+    font-size: 18px;
+    color:white;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+a:hover {
+    color: turquoise;
+    background-color: transparent;
+}

@@ -102,4 +102,51 @@ a:link
 { 
  text-decoration:none; 
 }
+/* Ajuste no css para exibição do header*/
+.linkedinimg{
+    width:20px; 
+    height:20px;
+}
 
+.telefoneimg{
+    width:20px; 
+    height:20px;
+    border-radius: 100%;
+}
+
+.emailimg{
+    width:20px; 
+    height:20px;
+    border-radius: 100%;
+}
+
+.cursos{
+    color: rgb(4, 0, 63);
+}
+
+p{
+    font-size: 18px;
+    color:white;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+a:hover {
+    color: turquoise;
+    background-color: transparent;
+}
+
+.foto-perfil{
+    border-radius: 100%;
+    max-width: 200px;
+    border: 1px solid black
+}
+
+.people{
+	width: 49%;
+	display: inline-block;
+	text-align: center;
+ }

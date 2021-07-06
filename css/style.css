@@ -149,15 +149,15 @@ a:hover {
 	width: 49%;
 	display: inline-block;
 	text-align: center;
- }
+}
 
- h3{
+h3{
     font-style: italic;
     color:black;
     font-size: 26px;
 }
 
-h2{
+.sobrepor{
     font-style: italic;
     color:black;
     font-size: 30px;

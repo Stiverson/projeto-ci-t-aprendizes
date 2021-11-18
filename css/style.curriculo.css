@@ -96,6 +96,7 @@ h3{
 p{
     font-size: 18px;
     color:white;
+    text-align: center;
 }
 
 a {
@@ -107,3 +108,4 @@ a:hover {
     color: turquoise;
     background-color: transparent;
 }
+
